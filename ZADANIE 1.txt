@@ -1,6 +1,8 @@
 Linijka nr 2
 
-Linijka nr 3a
+Linijka nr 3A
+
+Linijka nr 3B
 
 Linijka 4A
 
